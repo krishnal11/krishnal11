@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krishnal11
 - 👀 I’m interested in ... python 
-- 🌱 I’m currently learning ... tkinter
+- 🌱 I’m currently learning ... GenAI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... through email
 
